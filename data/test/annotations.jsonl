@@ -1,0 +1,10 @@
+{"image": "1100-receipt_jpg.rf.87004d8e67afb0a58775fef2a7c7bde1.jpg", "prefix": "<VQA>Given the following receipt, extract the total amount spent.", "suffix": "{\"total\": 26.15}"}
+{"image": "1105-receipt_jpg.rf.19fa7b07059c15a47334db7a444b5ae6.jpg", "prefix": "<VQA>Given the following receipt, extract the total amount spent.", "suffix": "{\"total\": 22.87}"}
+{"image": "1101-receipt_jpg.rf.2964d12593b6fe76d53046be238b1414.jpg", "prefix": "<VQA>Given the following receipt, extract the total amount spent.", "suffix": "{\"total\": 14.06}"}
+{"image": "1110-receipt_jpg.rf.3d82dadacee8b73cea6ed1271c84d823.jpg", "prefix": "<VQA>Given the following receipt, extract the total amount spent.", "suffix": "{\"total\": 160.07}"}
+{"image": "1109-receipt_jpg.rf.02e1748498fa46e215ac9ae93fc88e79.jpg", "prefix": "<VQA>Given the following receipt, extract the total amount spent.", "suffix": "{\"total\": 27.62}"}
+{"image": "1102-receipt_jpg.rf.295217d5f5138e7d536b75e300eca547.jpg", "prefix": "<VQA>Given the following receipt, extract the total amount spent.", "suffix": "{\"total\": 16.24}"}
+{"image": "1103-receipt_jpg.rf.8970ec35596c04f2a48898c0cd1e3ad4.jpg", "prefix": "<VQA>Given the following receipt, extract the total amount spent.", "suffix": "{\"total\": 42.74}"}
+{"image": "1107-receipt_jpg.rf.f10599b4ff56da9452f2b44ea754a7c2.jpg", "prefix": "<VQA>Given the following receipt, extract the total amount spent.", "suffix": "{\"total\": 144.28}"}
+{"image": "1108-receipt_jpg.rf.ed21c0b03da3c42f2777503d42de4faa.jpg", "prefix": "<VQA>Given the following receipt, extract the total amount spent.", "suffix": "{\"total\": 52.06}"}
+{"image": "1106-receipt_jpg.rf.b53e765f8a28699f451c0c27e0dc9dff.jpg", "prefix": "<VQA>Given the following receipt, extract the total amount spent.", "suffix": "{\"total\": 75.15}"}
