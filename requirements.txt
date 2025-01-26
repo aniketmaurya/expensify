@@ -1,4 +1,5 @@
 roboflow
 torch
 torchvision
+litserve
 # maestro  # install from github
