@@ -1,3 +1,7 @@
 *.jpg
 *.png
 *.jpeg
+*.env
+maestro/
+.vscode
+training/

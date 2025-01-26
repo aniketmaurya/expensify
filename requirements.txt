@@ -1,1 +1,4 @@
 roboflow
+torch
+torchvision
+# maestro  # install from github
