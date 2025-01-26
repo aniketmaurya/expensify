@@ -7,7 +7,7 @@ from PIL import Image
 from transformers import AutoModelForCausalLM, AutoProcessor
 
 model_id_or_path = "aniketmaurya/receipt-model-2025"
-model_id_or_path = "training/florence-2/4/checkpoints/best"
+# model_id_or_path = "training/florence-2/4/checkpoints/best"
 revision = "main"
 
 
